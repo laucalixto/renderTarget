@@ -1,0 +1,20 @@
+
+RENDER COMPARTILHADO - R02 R4 R5
+
+cd program files\blender foundation\blender
+
+R02
+
+blender -b C:\WORK\BLENDER\S11D_MONTAGEM_V17.blend -S CENA_49 -s 1400 -e 1550 -a -S CENA_50/51 -s 1660 -e 1800 -a
+
+R04
+
+blender -b C:\WORK\BLENDER\S11D_MONTAGEM_V17.blend -S CENA_49 -s 1551 -e 1650 -a -S CENA_50/51 -s 1801 -e 1940 -a
+
+R05
+
+blender -b C:\WORK\BLENDER\S11D_MONTAGEM_V17.blend -S CENA_49 -s 1651 -e 1750 -a -S CENA_50/51 -s 1940 -e 2080 -a
+
+
+
+
